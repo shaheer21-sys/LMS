@@ -8,7 +8,7 @@ export default function Home() {
         Hello world
       </p>
       <Button variant="destructive">
-        Hello
+        great
       </Button>
     </div>
   );
